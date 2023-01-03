@@ -19,3 +19,19 @@ is the number of infected individuals, and
 R = R(t)
 is the number of recovered individuals.
 
+## Screenshot
+![7_1B5iBk0ewW7K3K-pI2Ohw8Cg_qtMMSMq9r0yCZt_xx7hnbZ4jna_3HGlrMiYPS_4TR_4kBQwX8Uba4JIjLA1rNOHCMGp0XnCXdIyBI-93D8jK9HHcm1SqmPIUP](https://user-images.githubusercontent.com/118846871/210311178-409f8068-6f61-4173-ad6e-28a625da17f6.png)
+
+## Conclusion
+
+*Fewer people end up getting the disease. Maximum infected people w.r.t time is much lower. This is flattening the curve.
+
+-However, The model may not predict the exact absolute analysis, but it will work depending upon the integrated factors.
+
+- We see the strong rapid peak in the epidemic, followed by decaying oscillations to the final endemic state.
+
+- Eventually, these oscillations disappear, and the system settles in to the stable endemic equilibrium.
+
+- The most characteristic feature of this system is the existence of two very different time scales -- the short time scale of a single epidemic, and the long generational time scale on which susceptible are replenished.
+
+- Once the endemic state is established, any small perturbations which occur will be damped oscillations, with frequency and damping rate.
