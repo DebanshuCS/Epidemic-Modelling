@@ -19,8 +19,13 @@ is the number of infected individuals, and
 R = R(t)
 is the number of recovered individuals.
 
-## Screenshot
-![7_1B5iBk0ewW7K3K-pI2Ohw8Cg_qtMMSMq9r0yCZt_xx7hnbZ4jna_3HGlrMiYPS_4TR_4kBQwX8Uba4JIjLA1rNOHCMGp0XnCXdIyBI-93D8jK9HHcm1SqmPIUP](https://user-images.githubusercontent.com/118846871/210311178-409f8068-6f61-4173-ad6e-28a625da17f6.png)
+## Flattening of curve: 
+![download](https://user-images.githubusercontent.com/118846871/218764513-8d427807-f208-46b2-9acb-31f7ae307e26.png)
+
+Now, applying exteral factors like social distancing and reducing contact rate among people, we are successful to flatten the infection curve in the epidemic Model:
+
+![download (1)](https://user-images.githubusercontent.com/118846871/218764932-721d79bf-28d4-4b62-a48e-2fb3f22e0c0c.png)
+
 
 ## Conclusion
 
